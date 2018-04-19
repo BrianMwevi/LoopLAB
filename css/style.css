@@ -51,6 +51,10 @@ body {
   font-size:30px;
 }
 
+footer#main-footer a:link {
+  text-decoration: none;
+}
+
 
 
 
